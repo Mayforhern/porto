@@ -1,0 +1,26 @@
+# Ignore system files
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.config/
+.conky/
+.fonts/
+.gitconfig
+.gnupg/
+.local/
+.mozilla/
+.pki/
+.var/
+.viminfo
+.vscode/
+
+# Ignore specific directories
+Downloads/
+google-chrome/
+linux-mainline/
+yay/
+openvpn-ca/
+conky-manager2/
+
